@@ -1,8 +1,7 @@
 ![Imgur](http://i.imgur.com/EnhVVvi.jpg)
 
-----------------
 |School project| 
-----------------
+|--------------|
 
 # vLanUpLink
 
